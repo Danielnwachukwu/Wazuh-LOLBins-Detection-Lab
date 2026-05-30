@@ -1,0 +1,6 @@
+*.log
+*.evtx
+*.etl
+*.tmp
+Thumbs.db
+.DS_Store
